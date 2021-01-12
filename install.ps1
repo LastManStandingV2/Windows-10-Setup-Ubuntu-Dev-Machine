@@ -14,7 +14,7 @@ $uwpRubbishApps = @(
     "4DF9E0F8.Netflix",
     "Microsoft.GetHelp")
 
- # List of choclatey application to install. 
+ # List of chocolatey application to install. 
  # See https://chocolatey.org for more applications.
 
 $Apps = @(
